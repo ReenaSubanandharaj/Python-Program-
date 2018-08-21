@@ -1,5 +1,5 @@
-    a=3
-    if(a%2!=0):
-    	print("Odd")
-    else:
-    	print("Even")
+a=3
+if(a%2!=0):
+    print("Odd")
+else:
+    print("Even")
