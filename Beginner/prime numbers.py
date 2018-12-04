@@ -1,5 +1,5 @@
-a=int(input("Enter the first value:"))
-b=int(input("Enter the last value:"))
+a=1
+b=10
 for i in range(a,b+1):
   if(i>1):
     for x in range(2,i):
