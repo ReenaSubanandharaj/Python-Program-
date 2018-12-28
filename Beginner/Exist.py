@@ -1,5 +1,5 @@
 n=9
-if(1<n<10):
-  print("Yes")
+if(1<=n<=10):
+  print("yes")
 else:
-  print("No")
+  print("no")
