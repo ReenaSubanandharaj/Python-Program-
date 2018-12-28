@@ -1,3 +1,3 @@
 s=" "
-k=2
-print(k* "as\n")
+k=3
+print(k* "Laptop \n")
