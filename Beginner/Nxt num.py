@@ -1,2 +1,2 @@
-n=int(input(" "))
+n=123
 print(n+1)
