@@ -3,7 +3,7 @@ b="world"
 l=len(a)
 m=len(b)
 if(l==m):
-  print(a)
+  print(b)
 elif(l>m):
   print(a)
 else:
