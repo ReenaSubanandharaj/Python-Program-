@@ -1,0 +1,10 @@
+a="hello"
+b="world"
+l=len(a)
+m=len(b)
+if(l==m):
+  print(a)
+elif(l>m):
+  print(a)
+else:
+  print(b)
